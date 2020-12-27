@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://decrescimento.herokuapp.com",
-    "contentApiKey": "2028555e907a8b73073683da37 "
+    "contentApiKey": "2028555e907a8b73073683da37"
   },
   "production": {
     "apiUrl": "https://decrescimento.herokuapp.com",
-    "contentApiKey": "2028555e907a8b73073683da37 "
+    "contentApiKey": "2028555e907a8b73073683da37"
   }
 }
